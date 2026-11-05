@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "2.16",
+  "versionCode": 19,
+  "versionName": "2.17",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/deals-updates/main/LatestDeals.apk",
-  "notes": "v2.16: feed moved from Netlify to GitHub Pages (official site move, no credit usage); no other changes",
-  "date": "2026-11-04T22:30Z"
+  "notes": "Most Recent sort fix: same-day deals now break ties by feed position (newest first). Also fixes the Settings/About version text that still said 2.14.",
+  "date": "2026-11-05T07:07Z"
 }
