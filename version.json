@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "2.17",
+  "versionCode": 20,
+  "versionName": "2.18",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/deals-updates/main/LatestDeals.apk",
-  "notes": "Most Recent sort fix: same-day deals now break ties by feed position (newest first). Also fixes the Settings/About version text that still said 2.14.",
-  "date": "2026-11-05T07:07Z"
+  "notes": "تحسين تحميل الصور + تصحيح الصور الغلط وتعبئة الناقصة",
+  "date": "2026-11-08T06:52Z"
 }
